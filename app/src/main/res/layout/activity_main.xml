@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="152dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/dis"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="406dp"
+            android:layout_height="404dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            >
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d11"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+
+
+
+
+                        <Button
+                            android:id="@+id/lh11"
+                            android:layout_width="36dp"
+                            android:layout_height="8dp"
+                            android:text="lh11"
+                            android:textColor="#00FFFFFF"
+                            tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <ImageView
+                        android:id="@+id/d12"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh12"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh12"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d13"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh13"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh13"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d14"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh14"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh14"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d15"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh15"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh15"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d16"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh16"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh16"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d17"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh17"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh17"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d18"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh18"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh18"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d19"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh19"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh19"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d10"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv11"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv11"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv11"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv12"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv12"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv12"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv13"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv13"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv13"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/lv14"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv14"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv14"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv15"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv15"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv15"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv16"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv16"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv16"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv17"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv17"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv17"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv18"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv18"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv18"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv19"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv19"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv19"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv10"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv10"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d21"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh21"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh21"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d22"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh22"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh22"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d23"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh23"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh23"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d24"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh24"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh24"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d25"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh25"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh25"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d26"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh26"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh26"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d27"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh27"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+                        android:text="lh27"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d28"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh28"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh28"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d29"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh29"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh29"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d20"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv21"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv21"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv21"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv22"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv22"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv22"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv23"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv23"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv23"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv24"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv24"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv24"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv25"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv25"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv25"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv26"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv26"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv26"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv27"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv27"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv27"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv28"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv28"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv28"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv29"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv29"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv29"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv20"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv20"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d31"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh31"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh31"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d32"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh32"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh32"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d33"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh33"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh33"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d34"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh34"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh34"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d35"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh35"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh35"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d36"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh36"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh36"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d37"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh37"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh37"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d38"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh38"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh38"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d39"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh39"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh39"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d30"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv31"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv31"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv31"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv32"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv32"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv32"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv33"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv33"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv33"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv34"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv34"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv34"
+                        android:layout_width="39dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv35"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv35"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv35"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv36"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv36"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv36"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv37"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv37"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv37"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv38"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv38"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv38"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv39"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv39"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv39"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv30"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv30"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d41"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh41"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh41"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d42"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh42"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh42"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d43"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh43"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh43"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d44"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh44"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh44"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d45"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh45"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh45"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d46"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh46"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh46"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d47"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh47"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh47"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d48"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh48"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh48"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d49"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh49"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh49"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d40"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv41"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv41"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv41"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv42"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv42"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv42"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv43"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv43"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv43"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv44"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv44"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv44"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv45"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv45"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv45"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv46"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv46"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv46"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv47"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv47"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv47"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv48"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv48"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv48"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv49"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv49"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv49"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv40"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv40"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d51"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh51"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh51"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d52"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh52"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh52"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d53"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh53"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh53"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d54"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh54"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh54"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d55"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh55"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh55"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d56"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh56"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh56"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d57"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh57"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh57"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d58"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh58"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh58"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d59"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh59"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh59"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d50"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv51"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv51"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv51"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv52"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv52"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv52"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv53"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv53"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv53"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv54"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv54"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv54"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv55"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv55"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv55"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv56"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv56"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv56"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv57"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv57"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv57"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv58"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv58"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv58"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv59"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv59"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv59"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv50"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv50"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d61"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh61"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh61"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d62"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh62"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh62"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d63"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh63"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh63"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d64"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh64"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh64"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d65"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh65"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh65"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d66"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh66"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh66"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d67"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh67"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh67"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d68"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh68"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh68"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d69"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh69"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh69"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d60"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv61"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv61"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv61"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv62"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv62"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv62"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv63"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv63"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv63"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv64"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv64"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv64"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv65"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv65"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv65"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv66"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv66"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv66"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv67"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv67"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv67"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv68"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv68"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv68"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv69"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv69"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv69"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv60"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv60"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d71"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh71"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh71"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d72"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh72"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh72"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d73"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh73"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh73"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d74"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh74"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh74"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d75"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh75"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh75"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d76"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh76"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh76"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d77"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh77"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh77"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d78"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh78"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh78"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d79"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh79"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh79"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d70"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv71"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv71"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv71"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv72"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv72"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv72"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv73"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv73"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv73"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv74"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv74"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv74"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv75"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv75"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv75"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv76"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv76"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv76"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv77"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv77"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv77"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv78"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv78"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv78"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv79"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv79"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv79"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv70"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv70"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d81"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh81"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh81"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d82"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh82"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh82"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d83"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh83"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh83"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d84"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh84"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh84"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d85"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh85"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh85"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d86"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh86"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh86"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d87"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh87"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh87"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d88"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh88"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh88"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d89"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh89"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh89"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d80"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv81"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv81"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv81"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv82"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv82"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv82"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv83"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv83"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv83"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv84"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv84"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv84"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv85"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv85"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv85"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv86"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv86"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv86"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv87"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv87"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv87"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv88"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv88"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv88"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv89"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv89"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv89"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv80"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv80"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d91"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh91"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh91"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d92"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh92"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh92"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d93"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh93"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh93"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d94"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh94"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh94"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d95"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh95"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh95"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d96"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh96"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh96"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d97"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh97"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh97"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d98"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh98"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh98"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d99"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh99"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh99"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d90"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="36dp"
+                    >
+
+                    <Button
+                        android:id="@+id/lv91"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv91"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv91"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv92"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv92"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv92"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv93"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv93"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv93"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv94"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv94"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv94"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv95"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv95"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv95"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv96"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv96"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv96"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv97"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv97"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv97"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv98"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv98"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv98"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv99"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv99"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/tv99"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_gravity="center_vertical"
+                        android:textColor="#000000"
+                        android:textSize="30sp" />
+                    <Button
+                        android:id="@+id/lv90"
+                        android:layout_width="8dp"
+                        android:layout_height="36dp"
+
+                        android:insetLeft="2dp"
+                        android:insetTop="0dp"
+                        android:insetRight="3dp"
+                        android:insetBottom="0dp"
+                        android:text="lv90"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="404dp"
+                    android:layout_height="8dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/d01"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh01"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh01"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d02"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh02"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh02"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d03"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh03"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh03"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d04"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh04"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh04"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d05"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh05"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh05"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d06"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh06"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh06"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d07"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh07"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh07"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d08"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh08"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh08"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d09"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+
+                    <Button
+                        android:id="@+id/lh09"
+                        android:layout_width="36dp"
+                        android:layout_height="8dp"
+
+                        android:text="lh09"
+                        android:textColor="#00FFFFFF"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"/>
+                    <ImageView
+                        android:id="@+id/d00"
+                        android:layout_width="8dp"
+                        android:layout_height="8dp"
+                        app:srcCompat="@android:drawable/alert_dark_frame"
+                        />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/sc1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="\n Player 1:\n\n"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/sc2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="\n Player 2:\n\n"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
